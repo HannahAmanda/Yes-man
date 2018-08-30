@@ -63,7 +63,7 @@ Frank Borman, Apollo 8
 ![Earth rise](https://www.nasa.gov/sites/default/files/thumbnails/image/apollo08_earthrise.jpg)
 
 +++
-[50th anniversary interview](https://shortcut.thisamericanlife.org/#/share/655?_k=yqitfk)
+[50th anniversary interview](https://shortcut.thisamericanlife.org/#/share/655?_k=h2vdvf)
 
 +++
 [Susan](https://shortcut.thisamericanlife.org/#/share/655?_k=77oaex)
