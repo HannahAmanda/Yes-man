@@ -12,9 +12,10 @@
 +++
 * erfaringer fra første 6mnd i arbeidslivet
 
+---
 #### Estimering
 +++
-* utrdag fra Hannah's fagkveld talk
+* utdrag fra Hannah's fagkveld talk
 
 ---
 #### Impostor Syndrome
