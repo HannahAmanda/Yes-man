@@ -59,12 +59,11 @@ Frank Borman, Apollo 8
 +++
 ![Frank Borman, Apollo 8](http://krtv.images.worldnow.com/images/14942254_G.jpg)
 
-
-+++
-https://shortcut.thisamericanlife.org/#/share/655?_k=yqitfk
 +++
 https://shortcut.thisamericanlife.org/#/share/655?_k=77oaex
 
++++
+https://shortcut.thisamericanlife.org/#/share/655?_k=yqitfk
 
 ---
 #### Det vakreste en potensiell ny kollega kan si er... 
