@@ -54,6 +54,15 @@ grav i CvReg
 #### Drit i origin stories
 
 +++
+_"du har vel alltid likt matte og sånt"_
+
++++
+_"du har vel alltid vært flink med data"_
+
++++
+_"du har vel alltid likt programmering"_
+
++++
 Frank Borman, Apollo 8
 
 +++
