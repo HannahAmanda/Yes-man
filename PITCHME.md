@@ -1,19 +1,9 @@
-### Smashing Conference 2017 (Barcelona)
+### Yes-man
 
 ---
 
-![alt text](../master/cat.png)
+![alt text](https://cdn3.whatculture.com/images/2013/11/jim-carrey-yes-man.jpg)
 
----
-
-![alt text](../master/smashing-CAT.png)
-
----
-
-* Web develeopers & web designers
 
 +++
-* Tverrfaglig
-
-+++
-* Opphav i Smashing Magazine
+* bulletpoint
