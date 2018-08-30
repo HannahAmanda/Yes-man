@@ -60,10 +60,13 @@ Frank Borman, Apollo 8
 ![Frank Borman, Apollo 8](http://krtv.images.worldnow.com/images/14942254_G.jpg)
 
 +++
-https://shortcut.thisamericanlife.org/#/share/655?_k=77oaex
+![Earth rise](https://www.nasa.gov/sites/default/files/thumbnails/image/apollo08_earthrise.jpg)
 
 +++
-https://shortcut.thisamericanlife.org/#/share/655?_k=yqitfk
+[Frank Bormann, Apollo 8](https://shortcut.thisamericanlife.org/#/share/655?_k=77oaex)
+
++++
+[Susan.](https://shortcut.thisamericanlife.org/#/share/655?_k=yqitfk)
 
 ---
 #### Det vakreste en potensiell ny kollega kan si er... 
