@@ -56,7 +56,8 @@ grav i CvReg
 +++
 Frank Borman, Apollo 8
 
----?image=http://krtv.images.worldnow.com/images/14942254_G.jpg
++++
+![Frank Borman, Apollo 8](http://krtv.images.worldnow.com/images/14942254_G.jpg)
 
 
 +++
