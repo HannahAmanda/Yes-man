@@ -1,9 +1,8 @@
 ### Yes-man
  med Hannah og Patrick
 ---
-# Premise slide
-
-+++
+### Premise slide
+---
 * by på oss selv
 +++
 * starte en dialog om erfaringer mange har hatt
