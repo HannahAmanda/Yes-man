@@ -2,24 +2,23 @@
  med Hannah og Patrick
 ---
 ### Premise slide
----
++++
 * by på oss selv
 +++
 * starte en dialog om erfaringer mange har hatt
 
 ---
 ### Puppy developer
----
++++
+* erfaringer fra første 6mnd i arbeidslivet
 
 #### Estimering
-
 +++
 * utrdag fra Hannah's fagkveld talk
 
 ---
 #### Impostor Syndrome
----
-
++++
 * wing it
 +++
 * her har vi egentlig mye på "hjertet" 
