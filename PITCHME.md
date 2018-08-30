@@ -54,7 +54,11 @@ grav i CvReg
 #### Drit i origin stories
 
 +++
-Frank Borman, Apollo 8 
+Frank Borman, Apollo 8
+
++++
+?video=../crap.mp4
+
 
 ---
 #### Det vakreste en potensiell ny kollega kan si er... 
