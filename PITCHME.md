@@ -57,7 +57,7 @@ grav i CvReg
 Frank Borman, Apollo 8
 
 +++
-?video=../crap.mp4
+---?video=crap.mp4
 
 
 ---
