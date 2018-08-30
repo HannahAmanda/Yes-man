@@ -59,7 +59,6 @@ Frank Borman, Apollo 8
 +++
 ![Frank Borman, Apollo 8](http://krtv.images.worldnow.com/images/14942254_G.jpg)
 
-+++
 +++?image=https://www.nasa.gov/sites/default/files/thumbnails/image/apollo08_earthrise.jpg&size=50% 
 
 +++
