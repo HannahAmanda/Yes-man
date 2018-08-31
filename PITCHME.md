@@ -1,9 +1,10 @@
 ## Yes-man 
 ---
-
-#### yrkeslivet som utvikler
  
 ![Jim Carrey](https://cinemania-cdn.s3.amazonaws.com/wp-content/uploads/2015/02/jimcarrey-660x374.jpg)
+
+###### yrkeslivet
+
 
 +++
 akkumulerte samtaler
