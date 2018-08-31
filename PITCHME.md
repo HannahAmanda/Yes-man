@@ -3,7 +3,7 @@
 
 #### yrkeslivet som utvikler
  
-![](https://i.pinimg.com/originals/2b/73/d7/2b73d781d6445855d25fef5aef61c11f.jpg&size=60%)
+![Jim Carrey](https://cinemania-cdn.s3.amazonaws.com/wp-content/uploads/2015/02/jimcarrey-660x374.jpg)
 
 +++
 akkumulerte samtaler
