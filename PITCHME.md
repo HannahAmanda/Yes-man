@@ -64,7 +64,7 @@ An individual experience of self-perceived intellectual phoniness (fraud)
 despite the consistent evidence of external validation
 
 +++
-* kreative yrker
+kreative yrker
 
 
 ---
@@ -109,4 +109,4 @@ bidra på fagkveld
 grav i CvReg
 
 ---
-_finito..._
+_det var det ..._
