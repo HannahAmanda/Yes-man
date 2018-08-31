@@ -19,8 +19,9 @@ by på oss selv og våre tanker
 åpne opp for dialog
 
 +++ 
-det er lov å være uenig
+det er lov å være uenig 
 
+[](vi har jo bare jobbet i 2 år. med tiden, så kan vi jo endre mening. interessant med input fra andre som har jobbet lengre)
 
 
 
@@ -28,55 +29,53 @@ det er lov å være uenig
 ### Puppy developer
 +++
 * erfaringer fra første 6mnd i arbeidslivet
-
----
-#### Estimering
 +++
-* utdrag fra Hannah's fagkveld talk
-
----
-#### Impostor Syndrome
-+++
-* wing it
-
-+++
-* her har vi egentlig mye på "hjertet" 
-
----
-### Punkt 4: 
-+++
-* når man jobber med flink folk, så glemmer man å stille spm
-
-+++
-* når man jobber med pioneerer
---- 
-### Felles Front
-+++
-* Patrick vet hva han vil si
-
----
-### Avrunding/konstruktive oppfordringer
+* tar til seg alle premissene til miljøet og prøver å møte alle perceived expectations. 
 ---
 
-#### Ikke vær redd for å prøve nye ting
-+++
-vær med på Dojo
-+++ 
-bidra på fagkveld
-+++
-grav i CvReg
+### _"Jeg vet ikke.."_
+
+
 
 ---
-#### Drit i origin stories
+### _"Andre vet ikke alltid heller."_
++++
+jobbe med flinke folk... (patrick)
+
+
+
+---
+#### Det var bare flaks
 
 +++
-_"du har vel alltid likt matte og sånt"_
+_"De kommer til å skjønne hvor lite jeg egentlig kan."_
 
 +++
-_"du har vel alltid vært flink med data"_
+_"Hvem som helst kunne gjort det."_
+
 
 +++
-_"du har vel alltid likt programmering"_
+_"Det var bare flaks."_
+
+
++++
+*(Impostor Syndrome)* An individual experience of self-perceived intellectual phoniness (fraud), despite the consistent evidence of external validation.
+
++++
+* kreative yrker
+
++++
+*  Har du tanker her, Patmon?
+
+---
+#### Origin stories
+
++++
+_"du har vel alltid likt matte og sånt?"_
+
++++
+_"jeg har holdt på med data siden jeg var kid."_
+
 
 +++
 Frank Borman, Apollo 8
@@ -93,12 +92,15 @@ Frank Borman, Apollo 8
 [Susan](https://shortcut.thisamericanlife.org/#/share/655?_k=77oaex)
 
 
-
 ---
-#### Det vakreste en potensiell ny kollega kan si er... 
+
+#### Ikke vær redd for å prøve nye ting
 +++
-"jeg vet ikke" 
-
+vær med på Dojo
++++ 
+bidra på fagkveld
++++
+grav i CvReg
 
 ---
-### Diskusjon
+_fin_
