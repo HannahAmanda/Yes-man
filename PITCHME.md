@@ -1,13 +1,27 @@
-### Yes-man
+## Yes-man 
+---
+
+#### yrkeslivet som utvikler
  
- 
----?image=https://i.pinimg.com/originals/2b/73/d7/2b73d781d6445855d25fef5aef61c11f.jpg&size=60%
+![](https://i.pinimg.com/originals/2b/73/d7/2b73d781d6445855d25fef5aef61c11f.jpg&size=60%)
 
 +++
-* by på oss selv
+akkumulerte samtaler
+
++++ 
+vi har ingen svar
 
 +++
-* starte en dialog om erfaringer mange har
+by på oss selv og våre tanker
+
++++
+åpne opp for dialog
+
++++ 
+det er lov å være uenig
+
+
+
 
 ---
 ### Puppy developer
