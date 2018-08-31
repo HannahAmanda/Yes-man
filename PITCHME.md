@@ -18,27 +18,24 @@ by på oss selv og våre tanker
 +++
 åpne opp for dialog
 
-+++ 
-det er lov å være uenig 
-
 [](vi har jo bare jobbet i 2 år. med tiden, så kan vi jo endre mening. interessant med input fra andre som har jobbet lengre)
 
 
 
 ---
-### Puppy developer
+##### Puppy developer
 +++
 * erfaringer fra første 6mnd i arbeidslivet
 +++
 * tar til seg alle premissene til miljøet og prøver å møte alle perceived expectations. 
 ---
 
-### _"Jeg vet ikke.."_
+##### _"Jeg vet ikke.."_
 
 
 
 ---
-### _"Andre vet ikke alltid heller."_
+##### _"Andre vet ikke alltid heller."_
 +++
 jobbe med flinke folk... (patrick)
 
@@ -53,28 +50,37 @@ _"De kommer til å skjønne hvor lite jeg egentlig kan."_
 +++
 _"Hvem som helst kunne gjort det."_
 
-
 +++
 _"Det var bare flaks."_
 
 
 +++
-*(Impostor Syndrome)* An individual experience of self-perceived intellectual phoniness (fraud), despite the consistent evidence of external validation.
+*(Impostor Syndrome)* 
+
++++
+An individual experience of self-perceived intellectual phoniness (fraud)
+
++++
+despite the consistent evidence of external validation
 
 +++
 * kreative yrker
 
-+++
-*  Har du tanker her, Patmon?
 
 ---
-#### Origin stories
+##### Origin stories
 
 +++
 _"du har vel alltid likt matte og sånt?"_
 
 +++
 _"jeg har holdt på med data siden jeg var kid."_
+
++++
+Rollebytte. 
+
++++
+_it's a job, not a calling_
 
 
 +++
@@ -94,7 +100,7 @@ Frank Borman, Apollo 8
 
 ---
 
-#### Ikke vær redd for å prøve nye ting
+##### Prøv nye ting
 +++
 vær med på Dojo
 +++ 
@@ -103,4 +109,4 @@ bidra på fagkveld
 grav i CvReg
 
 ---
-_fin_
+_finito..._
