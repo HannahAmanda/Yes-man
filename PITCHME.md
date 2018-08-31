@@ -37,7 +37,10 @@ by på oss selv og våre tanker
 ---
 ##### _"Andre vet ikke alltid heller."_
 +++
-jobbe med flinke folk... (patrick)
+_god fisk_  jobbe med flinke folk... (patrick)
++++
+felles fron _utad_. 
++++
 
 
 
