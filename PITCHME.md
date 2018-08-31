@@ -1,12 +1,13 @@
 ### Yes-man
- med Hannah og Patrick
----
-### Premise slide
+ 
+ 
+---?image=https://i.pinimg.com/originals/2b/73/d7/2b73d781d6445855d25fef5aef61c11f.jpg&size=60%
+
 +++
 * by på oss selv
 
 +++
-* starte en dialog om erfaringer mange har hatt
+* starte en dialog om erfaringer mange har
 
 ---
 ### Puppy developer
