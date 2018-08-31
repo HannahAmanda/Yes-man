@@ -55,7 +55,7 @@ _"Det var bare flaks."_
 
 
 +++
-*(Impostor Syndrome)* 
+(Impostor Syndrome) 
 
 +++
 An individual experience of self-perceived intellectual phoniness (fraud)
